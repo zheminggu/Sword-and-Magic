@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2d241b1fee4254da74e57f48e4a9b7, type: 3}
+  m_Name: NormalNPC
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: m_Mission
+      Entry: 7
+      Data: 0|Adam.DialogueSystem.MissionInformation, Assembly-CSharp
+    - Name: m_FinishedMission
+      Entry: 5
+      Data: false
+    - Name: m_MissionName
+      Entry: 1
+      Data: 
+    - Name: m_DetailDiscription
+      Entry: 1
+      Data: 
+    - Name: m_ShortDiscription
+      Entry: 1
+      Data: 
+    - Name: m_Need
+      Entry: 7
+      Data: 1|System.Collections.Generic.List`1[[Adam.DialogueSystem.ItemInfomation,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: m_Give
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[Adam.DialogueSystem.ItemInfomation,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: m_HaveMissionFinishedDialogue
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: m_SetNpcDialogue
+      Entry: 7
+      Data: 3|System.Collections.Generic.List`1[[NameAndMission, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 4|NameAndMission, Assembly-CSharp
+    - Name: m_Name
+      Entry: 1
+      Data: NPC01
+    - Name: m_DialogueName
+      Entry: 1
+      Data: "\u5E73\u5E38\u8BF4\u7684\u8BDD"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  m_Dialogues:
+  - "\u6211\u6EF4\u5988"
+  - "\u627E\u4E86\u534A\u5929\u4E3A\u4EC0\u4E48"
+  IsAMission: 0
+  m_FinishedMissionDialogues: []

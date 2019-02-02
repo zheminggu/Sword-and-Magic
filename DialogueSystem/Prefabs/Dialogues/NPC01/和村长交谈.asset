@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2d241b1fee4254da74e57f48e4a9b7, type: 3}
+  m_Name: "\u548C\u6751\u957F\u4EA4\u8C08"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: m_Dialogues
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[Adam.DialogueSystem.DialogueContent,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 1|Adam.DialogueSystem.DialogueContent, Assembly-CSharp
+    - Name: m_Name
+      Entry: 1
+      Data: "\u6751\u957F"
+    - Name: m_Dialogue
+      Entry: 1
+      Data: "\u6B22\u8FCE\u4F60\u4EEC\uFF0C\u65C5\u884C\u8005\uFF0C\u6211\u662F\u8FD9\u91CC\u7684\u6751\u957F\uFF0C\u8BF7\u95EE\u6709\u4EC0\u4E48\u4E8B\uFF1F"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|Adam.DialogueSystem.DialogueContent, Assembly-CSharp
+    - Name: m_Name
+      Entry: 1
+      Data: "\u8001\u6CD5\u5E08"
+    - Name: m_Dialogue
+      Entry: 1
+      Data: "\u6211\u4EEC\u4E5F\u8BB8\u53EF\u4EE5\u5E2E\u52A9\u4F60\u4EEC\u9A71\u6563\u8FD9\u91CC\u5F02\u5E38\u7684\u5BD2\u51B7\uFF0C\u4F5C\u4E3A\u62A5\u916C\uFF0C\u6211\u4EEC\u5E0C\u671B\u80FD\u5F97\u5230\u4E00\u4E9B\u8865\u7ED9\u3002"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|Adam.DialogueSystem.DialogueContent, Assembly-CSharp
+    - Name: m_Name
+      Entry: 1
+      Data: "\u6751\u957F"
+    - Name: m_Dialogue
+      Entry: 1
+      Data: "\u54E6\uFF1F\u542C\u4E0A\u53BB\u4E0D\u9519\uFF0C\u4F46\u662F\u4F60\u4EEC\u8981\u600E\u4E48\u505A\u5462\uFF1F"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|Adam.DialogueSystem.DialogueContent, Assembly-CSharp
+    - Name: m_Name
+      Entry: 1
+      Data: "\u8001\u6CD5\u5E08"
+    - Name: m_Dialogue
+      Entry: 1
+      Data: "\u6211\u4EEC\u542C\u8BF4\u8FD9\u662F\u8BC5\u5492\u5BFC\u81F4\u7684\uFF0C\u8BF7\u5141\u8BB8\u6211\u8C03\u67E5\u4E00\u4E0B\uFF0C\u8BF7\u95EE\u8FD9\u91CC\u7684\u5893\u5730\u5728\u54EA\u91CC\uFF1F"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|Adam.DialogueSystem.DialogueContent, Assembly-CSharp
+    - Name: m_Name
+      Entry: 1
+      Data: "\u6751\u957F"
+    - Name: m_Dialogue
+      Entry: 1
+      Data: "\u5893\u5730\uFF1F\u5728\u6559\u5802\u8FB9\u4E0A\uFF0C\u4F60\u5728\u8FD9\u91CC\u53EF\u4EE5\u770B\u5230\u6559\u5802\u7684\u5C16\u9876\u3002"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: m_Mission
+      Entry: 6
+      Data: 
+    - Name: m_FinishedMissionDialogues
+      Entry: 7
+      Data: 6|System.Collections.Generic.List`1[[Adam.DialogueSystem.DialogueContent,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: m_SetNpcDialogue
+      Entry: 7
+      Data: 7|System.Collections.Generic.List`1[[NameAndMission, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 8|NameAndMission, Assembly-CSharp
+    - Name: m_Name
+      Entry: 1
+      Data: oldWizard
+    - Name: m_DialogueName
+      Entry: 1
+      Data: "\u53BB\u5893\u5730"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  IsAMission: 0
