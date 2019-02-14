@@ -4,7 +4,7 @@ Zheming Gu
 
 ## Directory structure
 
-Dialogue system: The Dialogue project placed in it.**For detailed information about dialogue system, place visit this folder**.
+Dialogue system: The Dialogue project placed in it. **For detailed information about dialogue system, place visit this folder**.
 
 Scripts: Some useful scripts in games, not for the dialogue system.
 
